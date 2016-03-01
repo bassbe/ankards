@@ -1,0 +1,26 @@
+.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+table, th, td {
+	border:1px solid black;
+         margin:auto;
+}
+
+th, td {
+    padding: 10px;
+}
+
+
+td:nth-child(1) {
+    background: lightblue;
+}
+
+
+td:nth-child(3) {
+    background: lightblue;
+}
