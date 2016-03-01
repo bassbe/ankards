@@ -1,0 +1,37 @@
+Card Configurations
+
+* Chinese
+** StrokeOrder
+*** Front Template
+<!--Write the Character -->
+
+
+<div style=
+		'font-family: cursive; 
+	  	font-size:35px; 
+	  	border-style: solid;
+	  	border-color: #006633;
+	'>
+{{Character}}
+
+</div>
+
+*** Styling (shared between cards)
+.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+*** Back Template
+<div style=
+		'font-family: Arial; 
+		font-size: 40px;
+	'>
+
+{{Stroke Order}}
+
+</div>
+** 

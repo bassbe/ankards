@@ -1,0 +1,8 @@
+Typing Tones in Chinese
+
+Using U.S. Extended Keyboard
+
+1st: Opt + a
+2nd: Opt + e
+3rd: Opt + v
+4th: Opt + ~(or)`
